@@ -1,0 +1,2 @@
+kafka-python==2.1.0
+fastavro==1.8.2
